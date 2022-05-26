@@ -1,3 +1,5 @@
 prometheus
 grafana
 newrelic
+newrelic2
+application
